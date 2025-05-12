@@ -1,0 +1,4 @@
+scrapy
+requests
+selenium
+webdriver-manager
